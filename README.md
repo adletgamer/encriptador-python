@@ -28,7 +28,7 @@ Este proyecto de **Code Hers** te enseña los fundamentos de la encriptación me
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/encriptador-python-basico.git
+git clone https://github.com/adletgamer/encriptador-python
 cd encriptador-python-basico
 
 # 2. Crea entorno virtual
